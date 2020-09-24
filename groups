@@ -2,4 +2,3 @@
 #
 42f0c83244389e408b42fa668348002012ecba46                                           	GitHub Replication
 5304efeda86c89a11bbb2161a3fce93136adb8d6                                           	saml/acumos-gerrit-message-handling-committers
-ldap:cn=acumos-gerrit-message-handling-committers,ou=Groups,dc=freestandards,dc=org	ldap/acumos-gerrit-message-handling-committers
